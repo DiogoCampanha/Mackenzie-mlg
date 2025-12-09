@@ -71,3 +71,7 @@ O aumento de mais de 20 pontos percentuais na acurácia destaca o valor da recup
 - **Orquestração**: `llama-cpp-python`
 - **Bibliotecas de ML/DL**: `transformers`, `scikit-learn`
 - **Manipulação de Dados**: `pandas`, `numpy`
+
+## Referências
+
+Os resultados obtidos estão alinhados com pesquisas contemporâneas sobre RAG e LLMs, incluindo estudos de Lewis et al. (2020) sobre Retrieval-Augmented Generation, Reimers & Gurevych (2019) sobre Sentence-BERT e investigações recentes sobre modelos compactos e quantizados, como Dettmers et al. (2023). Assim, o trabalho reforça a relevância do uso de arquiteturas híbridas para melhorar a confiabilidade e a precisão de modelos de linguagem em problemas aplicados de classificação.
